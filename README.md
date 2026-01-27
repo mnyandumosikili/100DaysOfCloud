@@ -14,7 +14,7 @@
 Fill in your details where you see this icon ✍️
 We have provided a sample Day Journey entry staring at 0. You can delete this example.
 
-## [✍️ Your Name]'s Cloud Journey
+## Nokwanda's Cloud Journey
 
 Hey there, I am Nokwanda! I am a Support Technician looking to better my cloud skills and learn for the community.
 
