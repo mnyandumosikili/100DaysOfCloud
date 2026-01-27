@@ -16,11 +16,11 @@ We have provided a sample Day Journey entry staring at 0. You can delete this ex
 
 ## [✍️ Your Name]'s Cloud Journey
 
-[✍️ Introduce yourself]
+Hey there, I am Nokwanda! I am a Support Technician looking to better my cloud skills and learn for the community.
 
-[✍️ Tell us why you started this challenge]
+I started this challenge because I want to become a cloud engineer or at least move to a Sys Admin role. I want to know the in's and out of the cloud.
 
-[✍️ Tell us where you want to be at the end of the challenge]
+By the end of this challenge i will have a better understanding of the cloud and the role of a cloud engineer. I will most definitely have cloud certifications at align with where I see myself as a Cloud Engineer.
 
 - [✍️ Link to your Twitter](https://twitter.com/username)
 - [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
