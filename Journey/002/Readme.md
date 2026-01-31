@@ -6,7 +6,7 @@ Topic 1 : Version Control
 
 - ✍️ Completed Intro to Git 
 - Windows Subsystem for Linus (WSL) setup
-- Learned and practices command-lin basics on freeCodeCamp
+- Learned and practices command-line basics on freeCodeCamp
 
 ## Social Proof
 
